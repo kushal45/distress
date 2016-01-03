@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_settings" android:title="delete"
+        android:orderInCategory="100" app:showAsAction="never" />
+<item android:id="@+id/Sendsms" android:title="Send Sms"
+      android:orderInCategory="200" app:showAsAction="never"/>
+    <item android:id="@+id/SortSms" android:title="Sort"
+        android:orderInCategory="200" app:showAsAction="never"/>
+</menu>

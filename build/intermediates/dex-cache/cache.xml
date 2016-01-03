@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\USER\Downloads\MyApplication\app\build\intermediates\exploded-aar\com.github.markushi\android-ui\1.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="96436aef5f48b09aca1e0183dfcd7782aa580bd6">
+        <dex dex="C:\Users\USER\Downloads\MyApplication\app\build\intermediates\pre-dexed\debug\classes-c82e2c2994dac1ed8b016b3c6eb6e4803a25c0f5.jar" />
+    </item>
+    <item
+        jar="C:\Users\USER\Downloads\MyApplication\app\build\intermediates\exploded-aar\it.neokree\MaterialTabs\0.11\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="fef6aa7ea0bb2d6adf10965d0a5bb8e353517bff">
+        <dex dex="C:\Users\USER\Downloads\MyApplication\app\build\intermediates\pre-dexed\debug\classes-8050ac4cde690713faf0801b69d078f765284569.jar" />
+    </item>
+
+</items>

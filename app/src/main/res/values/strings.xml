@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">My Application</string>
+<string-array name="Categories">
+     <item >ImportantNumbers</item>
+    <item >Police</item>
+    <item>Fire</item>
+    <item >Hospital</item>
+    <item >Ambulance</item>
+    <item >Blood\u0020Banks</item>
+    <item>Food\u0020Stuffs</item>
+    <item>Chemist </item>
+    <item >Media</item>
+    <item >Women</item>
+    <item >Airport</item>
+    <item >Railway</item>
+    <item >Electricity</item>
+</string-array>
+    <string-array name="importanttitle">
+        <item>Police</item>
+        <item>Fire</item>
+        <item>Fire</item>
+        <item>Howrah\u0020Enquiry</item>
+        <item>Sealdah\u0020Enquiry</item>
+        <item>Metro\u0020Railways</item>
+        <item>WBSEDCL\u0020Enquiry</item>
+        <item>CESC\u0020Enquiry</item>
+
+
+    </string-array>
+
+
+
+    <string name="activity_contacts_list">Contacts List</string>
+    <string name="activity_contact_detail">Contact Detail</string>
+    <string name="contacts_list_search_results_title">Contacts List Search for \"%s\"</string>
+    <string name="app_description">This is a sample app, demonstrating use of the Android system Contacts Provider.</string>
+    <string name="imageview_description">Contact Thumbnail</string>
+    <string name="address_button_description">View Address</string>
+<string name="no">Cancel</string>
+    <string name="Yes">Ok</string>
+    <string name="menu_add_contact">Add Contact</string>
+    <string name="menu_edit_contact">Edit Contact</string>
+    <string name="no_contacts">No Contacts Found</string>
+    <string name="no_contact_selected">No Contact Selected</string>
+
+
+    <!-- Used for the AlphabetIndexer in ContactsListFragment to provide quick navigation by
+         alphabet using ListView fast scroll. -->
+    <string name="alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+
+    <!-- When using ContactsContract.Contacts#CONTENT_FILTER_URI to search contacts, a match occurs
+         when using a number of different fields, such as name, e-mail address, address, phone
+         number, etc. When a match occurs that is not the name, there is currently no way to tell
+         which other field was matched. This string is displayed in the secondary display text in
+         ContactsListFragment when a search query match occurs that is not the display name.
+         -->
+    <string name="search_match_other">Matches Other Field</string>
+
+    <string name="no_address">No addresses found</string>
+    <string name="no_intent_found">No application found to handle this action</string>
+
+
+    <string-array name="policetitle">
+<item>Toll\u0020Free</item>
+<item>Traffic\u0020Control\u0020Room</item>
+<item>CID</item>
+<item>Alipore</item>
+<item>Airport</item>
+<item>Armherst St</item>
+<item>Baguihati</item>
+<item>Behala</item>
+    <item>Baranagar</item>
+    <item>Belgharia</item>
+    <item>Beliaghata</item>
+    <item>Beniapukr</item>
+
+
+</string-array>
+    <string-array name="policedesc">
+        <item>100</item>
+        <item>1073</item>
+        <item>CID</item>
+        <item>Alipore</item>
+        <item>Airport</item>
+        <item>Armherst St</item>
+        <item>Baguihati</item>
+        <item>Behala</item>
+        <item>Baranagar</item>
+        <item>Belgharia</item>
+        <item>Beliaghata</item>
+        <item>Beniapukr</item>
+
+
+    </string-array>
+
+
+    <string-array name="description">
+        <item>100</item>
+        <item>101</item>
+        <item>102</item>
+        <item>102</item>
+        <item>+913326603542</item>
+        <item>+913323503535\u0020,+913323503537</item>
+        <item>913322261054</item>
+        <item>1912</item>
+
+
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_hint">Search Here</string>
+    <string name="menu_search">Search</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
